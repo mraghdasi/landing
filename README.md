@@ -1,7 +1,7 @@
 yarn install
 
 for run html :
-#serve
+serve
 
 webpack
 npm run build
